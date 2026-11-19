@@ -1,3 +1,3 @@
-name: Your Name
+name: cooked
 role: reviewer
 motto: Hack fast, defend faster
