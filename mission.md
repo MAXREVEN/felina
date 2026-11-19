@@ -1,5 +1,5 @@
 # Mission log
 
 codename: lighthouse
-target: TBD
+target: harbor
 launch: friday 18:00
