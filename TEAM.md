@@ -1,7 +1,9 @@
 # Team
 
-team: TBD
+team: felina
 
 ## Members
 <!-- one line per member, GitHub usernames: - @username -->
-- @captain-username
+- @cMAXREVen
+- @ayoubdaoud7
+- @dalicato7-ls
